@@ -4,11 +4,7 @@
     "version" : "0.1",
     "type" : "job"
   },
-  "relatedItems" : [ {
-    "id" : "_oNNf23Y-Ee2xSowqibNwjA",
-    "version" : "Latest",
-    "type" : "property"
-  } ]
+  "relatedItems" : [ ]
 }, {
   "baseItem" : {
     "id" : "_v41hUHJPEe2isuOcWu0z4g",
