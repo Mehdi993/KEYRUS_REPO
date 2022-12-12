@@ -9,15 +9,4 @@
     "version" : "Latest",
     "type" : "context"
   } ]
-}, {
-  "baseItem" : {
-    "id" : "_LH8_VXlZEe2uiKxfMQrP4A",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_cyydIHlYEe2uiKxfMQrP4A",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
 } ]
