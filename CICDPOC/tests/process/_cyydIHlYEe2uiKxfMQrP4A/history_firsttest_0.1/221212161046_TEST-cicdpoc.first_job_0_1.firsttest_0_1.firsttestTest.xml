@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="cicdpoc.first_job_0_1.firsttest_0_1.firsttestTest" time="0.617" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Talend\Studio\studio\plugins\org.eclipse.m2e.maven.runtime_1.18.0.20210603-1206\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="ci.builder.skip" value="true"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://www.azulsystems.com/"/>
+    <property name="user.timezone" value="UTC"/>
+    <property name="os.name" value="Windows Server 2019"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Talend\Studio\zulu11.48.21-ca-jdk11.0.11-win_x64\bin"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -o -s C:\Talend\Studio\studio\configuration\maven_user_settings.xml test -llr -l C:/Talend/Studio/WORKSPACES/RemoteWS/.repositories/581919769/main/CICDPOC/poms/jobs/process/first_job_0.1/lastGenerated.log -Dci.builder.skip=true -Dlicense.path=C:\Talend\Studio\studio\license -Dsession.id=ODE3MDIwMTY3MDg2MTQ0MjM4OQ=="/>
+    <property name="jdk.debug" value="release"/>
+    <property name="maven.home" value="C:\Talend\Studio\WORKSPACES\RemoteWS\.repositories\581919769\main\CICDPOC\poms\jobs\process\first_job_0.1\EMBEDDED"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\talend"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-04-20"/>
+    <property name="java.home" value="C:\Talend\Studio\zulu11.48.21-ca-jdk11.0.11-win_x64"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="jdk.vendor.version" value="Zulu11.48+21-CA"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.11+9-LTS"/>
+    <property name="user.name" value="talend"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Zulu11.48+21-CA"/>
+    <property name="license.path" value="C:\Talend\Studio\studio\license"/>
+    <property name="java.vendor.url.bug" value="http://www.azulsystems.com/support/"/>
+    <property name="java.io.tmpdir" value="C:\Users\talend\AppData\Local\Temp\2\"/>
+    <property name="java.version" value="11.0.11"/>
+    <property name="user.dir" value="C:\Talend\Studio\WORKSPACES\RemoteWS\.repositories\581919769\main\CICDPOC\poms\jobs\process\first_job_0.1"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Talend\Studio\WORKSPACES\RemoteWS\.repositories\581919769\main\CICDPOC\poms\jobs\process\first_job_0.1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Talend\Studio\zulu11.48.21-ca-jdk11.0.11-win_x64\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Talend/Studio/zulu11.48.21-ca-jdk11.0.11-win_x64/bin/server;C:/Talend/Studio/zulu11.48.21-ca-jdk11.0.11-win_x64/bin;C:\java\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Git\cmd;C:\Git\bin;C:\maven\bin;C:\java\bin;C:\Users\talend\AppData\Local\Microsoft\WindowsApps;;C:\Talend\Studio\studio;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vm.version" value="11.0.11+9-LTS"/>
+    <property name="classworlds.conf" value="C:\Talend\Studio\WORKSPACES\RemoteWS\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf9505855389859085145.tmp"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="session.id" value="ODE3MDIwMTY3MDg2MTQ0MjM4OQ=="/>
+  </properties>
+  <testcase name="testDefault" classname="cicdpoc.first_job_0_1.firsttest_0_1.firsttestTest" time="0.554">
+    <failure message="Failure=1&#10;tAssert_1:File from reference differs from input&#10;" type="java.lang.AssertionError">java.lang.AssertionError: 
+Failure=1
+tAssert_1:File from reference differs from input
+
+	at cicdpoc.first_job_0_1.firsttest_0_1.firsttestTest.testDefault(firsttestTest.java:2722)
+</failure>
+    <system-out><![CDATA[[job firsttest] Files differ
+]]></system-out>
+  </testcase>
+</testsuite>
